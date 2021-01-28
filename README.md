@@ -8,4 +8,4 @@
   #### 1.jsonPath - json file path.
   #### 2. outputFilePath output file path, where result should be printed.
  
- ####Example java -jar target/app.jar myJson.json output.txt
+ #### Example java -jar target/app.jar myJson.json output.txt
