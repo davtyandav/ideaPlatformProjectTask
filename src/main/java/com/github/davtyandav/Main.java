@@ -1,4 +1,4 @@
-package com.github.daviddavtyan;
+package com.github.davtyandav;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

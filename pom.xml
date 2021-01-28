@@ -41,7 +41,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.github.daviddavtyan.Main</mainClass>
+                                    <mainClass>com.github.davtyandav.Main</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
